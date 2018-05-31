@@ -1,0 +1,9 @@
+ a a 1
+b a 1
+b b 1
+c b 1
+d b 1
+ax a 2
+x x 1
+as x 1
+
